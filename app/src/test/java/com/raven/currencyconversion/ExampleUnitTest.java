@@ -1,4 +1,4 @@
-package com.raven.currenceyconversion;
+package com.raven.currencyconversion;
 
 import org.junit.Test;
 

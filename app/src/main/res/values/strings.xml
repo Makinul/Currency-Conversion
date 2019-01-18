@@ -1,4 +1,10 @@
 <resources>
-    <string name="app_name">Currencey Conversion</string>
+    <string name="app_name">Currency Conversion</string>
     <string name="action_settings">Settings</string>
+    <string name="please_insert_desire_value">Please insert desire value</string>
+    <string name="please_select_tax_type">Please select tax type:</string>
+    <string name="please_select_country">Please select country:</string>
+    <string name="please_insert_desire_value_what_you_want_to_convert">Please insert desire value in the input field,\nthat you want to convert.</string>
+    <string name="calculated_tax" formatted="false">Here the final tax is \"%s\" for \"%s\".\nYou select \"%s\" tax type of \"%s\".</string>
+    <string name="loading">Loading...</string>
 </resources>
